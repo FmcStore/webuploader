@@ -14,12 +14,12 @@ MakeWindow({
     Title = "FmcStore Official Hub 😉🐐",
     Description = "^ Blue Lock Rivals (Updated)^",
     KeyLink = "https://discord.gg/72q5yvpfEJ",
-    Keys = {"zuyiandexecutive", "71838", "28282", "1", "28282"},
+    Keys = {"Fmcexecutive", "Fmc", "123", "1", "28282"},
     Notifi = {
       Notifications = true,
       CorrectKey = "Correct✅",
-      Incorrectkey = "False😡‼️",
-      CopyKeyLink = "Copied Discord Link"
+      Incorrectkey = "False, Salah Tolol Passwordnya😡‼️",
+      CopyKeyLink = "Copied Key Link"
     }
   }
 })
